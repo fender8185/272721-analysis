@@ -1,0 +1,38 @@
+'27271':
+  CallableDateEnd1: '20280218'
+  CallableDateEnd2: ''
+  CallableDateStart1: '20230630'
+  CallableDateStart2: ''
+  CallablePrice1: '100'
+  CallablePrice2: ''
+  ConversionPrice: '295'  # 轉換價格
+  ConversionPriceAnnounced: '295'
+  ConversionPriceAnnouncedEffectiveDate: '20230329'
+  ConversionPriceEffectiveDate: '20230329'
+  CorporateBondInterestRate: '0.0325'  # 債券收益率
+  CorporateBondInterestRateDataDate: '20230612'
+  CorporateBondInterestRateDataDateKGI: '20230605'
+  CorporateBondInterestRateDataDateYuanta: '20230612'
+  CorporateBondInterestRateKGI: '0.0325'
+  CorporateBondInterestRateYuanta: '0.0325'
+  ExpirationDate: '20280329'
+  ExpirationPrice: '100'
+  IssuedAmount: '700'
+  IssuedConversionPrice: '295'
+  IssuedDate: '20230329'  # 發行日期
+  MostRecentCallableDateEnd: '20280218'
+  MostRecentCallableDateStart: '20230630'
+  MostRecentCallablePrice: '100'
+  MostRecentPutableDate: '20260329'
+  MostRecentPutablePrice: '100.7519'
+  OutstandingAmount: '700'
+  PutableDate1: '20260329'
+  PutableDate2: '20280329'  # 到期日期
+  PutableDate3: ''
+  PutableDate4: ''
+  PutablePrice1: '100.7519'
+  PutablePrice2: '100'
+  PutablePrice3: ''
+  PutablePrice4: ''
+  ULStock: '2727'
+

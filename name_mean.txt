@@ -1,0 +1,17 @@
+CallableDateEnd1 和 CallableDateStart1：这对应该是第一次可赎回日期的开始和结束时间。
+CallablePrice1：这是第一次可赎回的价格。
+ConversionPrice：这是转换成股票的价格。
+CorporateBondInterestRate：这是公司债的利率。
+ExpirationDate：这是债券的到期日期。
+ExpirationPrice：这是债券到期时的价格。
+IssuedAmount：这是发行的金额。
+IssuedConversionPrice：这是发行时的转换价格。
+IssuedDate：这是发行日期。
+MostRecentCallableDateEnd 和 MostRecentCallableDateStart：这对应该是最近一次可赎回日期的开始和结束时间。
+MostRecentCallablePrice：这是最近一次可赎回的价格。
+MostRecentPutableDate：这是最近一次可行使赎回的日期。
+MostRecentPutablePrice：这是最近一次可行使赎回的价格。
+OutstandingAmount：这是未偿还的金额。
+PutableDate1 和 PutableDate2：这对应的是第一次和第二次可行使赎回的日期。
+PutablePrice1 和 PutablePrice2：这对应的是第一次和第二次可行使赎回的价格。
+ULStock：这可能是可转换债券的底层股票代码。
